@@ -29,4 +29,6 @@ import numpy as np
 import os
 import tensorflow as tf
 import functools
+import tensorflow_probability as tfp
+from student_utils import create_tf_numeric_feature
 ```
